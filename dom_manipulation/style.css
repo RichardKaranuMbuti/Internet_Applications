@@ -1,0 +1,9 @@
+/* Style for button hover using CSS */
+#colorChangeButton:hover {
+    background-color: lightblue; /* Change color on hover */
+}
+
+/* Input field style */
+input[type="text"]:focus {
+    background-color: lightyellow; /* Change color when focused */
+}
